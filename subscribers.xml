@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<subscribers>
+  <subscriber>
+    <name>Jan</name>
+    <surname>Kowalski</surname>
+    <city>Warsaw</city>
+    <phoneNumber>123456789</phoneNumber>
+  </subscriber>
+  <subscriber>
+    <name>John</name>
+    <surname>Doe</surname>
+    <city>New York</city>
+    <phoneNumber>987654321</phoneNumber>
+  </subscriber>
+  <subscriber>
+    <name>a</name>
+    <surname>a</surname>
+    <city>a</city>
+    <phoneNumber>1</phoneNumber>
+  </subscriber>
+</subscribers>
